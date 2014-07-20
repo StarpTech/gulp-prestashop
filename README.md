@@ -33,3 +33,7 @@ $ gulp lint
 ```bash
 $ gulp sass
 ```
+
+## Copyright
+
+Copyright 2014 [Dustin Deus](http://blog.starptech.de/). See [MIT-LICENCE](https://github.com/StarpTech/gulp-prestashop/blob/master/LICENSE) for details.
