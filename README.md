@@ -1,7 +1,7 @@
 ![gulp prestashop power](https://raw.githubusercontent.com/StarpTech/gulp-prestashop/master/gulp-ps.png)
 
 #Description
-The version Prestashop 1.6 introduce the Sass Compass technology to the project. You can use all of the awesome SASS features like variables, nested rules, mixins, inline imports. With gulp-prestashop you can extend your development worklflow easily to use Sass.
+Gulp-prestashop makes the development of high quality themes much easier. Prestashop delivers all css files with its Sass equivalent. You can develop your theme in a new, dynamic way (for Prestashop since 1.6). The problem, however, was that nobody used it and nowhere is the workflow documented. I want to provide with gulp-prestashop an easy way to build your Sass files instantly. You can watch for changes and gulp will automatically recompiles the files. Also linting of javascript files is supported. The project is at a very early stage but I hope you can see the benefits.
 
 ![gulp sass build process](https://raw.githubusercontent.com/StarpTech/gulp-prestashop/b9ed5e9f8d89cd5ac26378d170a95cb69199b8aa/prestashop-sass.gif)
 ## Getting Started
