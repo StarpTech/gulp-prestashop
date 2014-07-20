@@ -29,7 +29,7 @@ var sassConfig = {
 };
 
 /*
-* Custom routine to fail gulp when jshint is failed
+* Custom routine to cancel gulp when jshint is failed
 * (Currently not implemented in gulp-jshint :/)
 */
 var map = require('map-stream');
