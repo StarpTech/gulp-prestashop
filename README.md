@@ -7,7 +7,9 @@ Install dependencies:
 + Install Ruby (For windows http://rubyinstaller.org/)
 + ```gem install sass```  
 + ```gem install compass```  
-+ ```npm install```  
++ ```npm install```
+
+Install gulp globally to run the tasks instantly in the console ```npm install -g gulp```
 
 ## Usage
 
