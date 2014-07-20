@@ -30,4 +30,4 @@ $ gulp lint
 #### Run just sass
 ```bash
 $ gulp sass
-```v
+```
