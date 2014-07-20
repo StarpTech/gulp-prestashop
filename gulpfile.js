@@ -9,6 +9,7 @@ var stylish = require('jshint-stylish');
 var sass = require('gulp-ruby-sass');
 var path = require('path');
 var minifycss = require('gulp-minify-css');
+var changed = require('gulp-changed');
 
 //General
 var psProjectDir = 'prestashop';
@@ -54,6 +55,7 @@ gulp.task('lint', function() {
 */
 gulp.task('sass', function() {
     return gulp.src(paths.prestashopSassFiles)
+        .pipe(changed(paths.prestashopCssDir,{ extension: '.css' }))
         .pipe(sass(sassConfig))
         .pipe(gulp.dest(paths.prestashopCssDir));
 });
