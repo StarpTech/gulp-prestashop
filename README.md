@@ -1,5 +1,5 @@
 #Description
-The version Prestashop 1.6 introduce the Sass Compass technology to the project. You can use all of the awesome SASS features like variables, nested rules, mixins, inline imports and more to make your life much easier. With gulp-prestashop you can extend you development worklflow easily to use Sass.
+The version Prestashop 1.6 introduce the Sass Compass technology to the project. You can use all of the awesome SASS features like variables, nested rules, mixins, inline imports. With gulp-prestashop you can extend you development worklflow easily to use Sass.
 
 ![gulp sass build process](https://raw.githubusercontent.com/StarpTech/gulp-prestashop/b9ed5e9f8d89cd5ac26378d170a95cb69199b8aa/prestashop-sass.gif)
 ## Getting Started
