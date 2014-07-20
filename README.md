@@ -5,9 +5,9 @@
 Install dependencies:
 
 + Install Ruby (For windows http://rubyinstaller.org/)
-+ ```gem install sass```
-+ ```gem install compass```
-+ ```npm install```
++ ```gem install sass```  
++ ```gem install compass```  
++ ```npm install```  
 
 ## Usage
 
