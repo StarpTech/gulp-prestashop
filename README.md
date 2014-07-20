@@ -1,5 +1,5 @@
 # gulp-prestashop-boilerplate
-
+![gulp sass build process](https://raw.githubusercontent.com/StarpTech/gulp-prestashop/master/prestashop-sass.gif)
 ## Getting Started
 
 Install dependencies:
