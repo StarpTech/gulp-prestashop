@@ -1,0 +1,22 @@
+{
+	"node": true,
+	"esnext": false,
+	"bitwise": false,
+	"curly": false,
+	"eqeqeq": true,
+	"eqnull": true,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"undef": true,
+	"strict": false,
+	"trailing": true,
+	"smarttabs": true,
+	"indent": 4,
+	"globals": {
+        "$": false,
+        "document" : false,
+        "window" : false
+   }
+}

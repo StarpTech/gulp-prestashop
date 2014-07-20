@@ -1,0 +1,5 @@
+node_modules
+prestashop/themes/default-bootstrap/sass
+prestashop/themes/default-bootstrap/css
+prestashop/themes/default-bootstrap/js
+.sass-cache
