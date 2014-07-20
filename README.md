@@ -12,8 +12,8 @@ Install dependencies:
 ## Usage
 
 ### 1. Specifiy your project paths in the gulpfile.js
-```var psProjectDir; // Your root prestashop dir (e.g prestashop)```
-```var themeName; // Your active theme (e.g default-bootstrap)```
++ ```var psProjectDir; // Your root prestashop dir (e.g prestashop)```
++ ```var themeName; // Your active theme (e.g default-bootstrap)```
 
 ### Tasks
 
